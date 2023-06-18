@@ -24,6 +24,6 @@ Iterative Improvement: Continuously refine and improve the recommendation system
 Deployment: Once satisfied with the performance of the recommendation system, deploy it in a production environment where it can be used to generate real-time recommendations for users.
 
  The specific implementation details may vary depending on the programming language, libraries, and frameworks you choose to use.
- 
-![image](https://github.com/RhitamMukherjee/Content-based-movie-recommender-system/assets/107597343/e50bef05-7536-4012-8c3d-8fa924e9c7da)
+ ![image](https://github.com/RhitamMukherjee/Content-based-movie-recommender-system/assets/107597343/7fbd6883-c293-46ec-8aab-37edb0056bc3)
+
 
