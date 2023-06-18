@@ -24,3 +24,5 @@ Iterative Improvement: Continuously refine and improve the recommendation system
 Deployment: Once satisfied with the performance of the recommendation system, deploy it in a production environment where it can be used to generate real-time recommendations for users.
 
  The specific implementation details may vary depending on the programming language, libraries, and frameworks you choose to use.
+ 
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A792%2F1*P63ZaFHlssabl34XbJgong.jpeg&tbnid=7EAl8PlzZztW-M&vet=12ahUKEwjH1LTgpMz_AhUgM7cAHUzrA7wQMygBegUIARDZAQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2Fmlearning-ai%2Fcontent-based-recommender-system-using-nlp-445ebb777c7a&docid=WIzSPDzeeFrPNM&w=792&h=1006&q=content%20based%20recommendation%20system&ved=2ahUKEwjH1LTgpMz_AhUgM7cAHUzrA7wQMygBegUIARDZAQ
